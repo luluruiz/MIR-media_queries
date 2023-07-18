@@ -12,8 +12,7 @@ text-align: left;
 }    
 
 .container {
-    margin-top: 100px;
-    margin-left: auto;
+    margin: 200px 200px;
     display: flex;
     width: auto;
     height: 500px;
@@ -22,7 +21,7 @@ text-align: left;
 
 
 .contenido {
-    width: 350px;
+    width: auto;
     padding-left: 100px;
     display: flex;
     flex-flow: column wrap;
